@@ -1,0 +1,11 @@
+pip install requests 
+pip install pillow
+pip install parinya
+
+coco.names
+yolov3-tiny.cfg
+yolov3-tiny.weights
+
+----for link youtube
+pip install pafy
+sudo pip install --upgrade youtube_dl
